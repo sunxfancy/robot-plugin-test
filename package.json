@@ -1,0 +1,11 @@
+{
+  "name": "robot-plugin-test",
+  "version": "1.0.0",
+  "description": "a test plugin for live2d-electron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sxf",
+  "license": "MIT"
+}
