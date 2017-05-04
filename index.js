@@ -1,8 +1,10 @@
 
-import {Api, Plugin} from 'robot-api'
+const {Api, Plugin} = RobotAPI;
 
-export class PluginTest extends Plugin {
+class PluginTest extends Plugin {
     constructor(store) {
         this.store = store;
     }
 }
+
+module.exports = PluginTest;
